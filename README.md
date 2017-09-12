@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## website under construction
 
 You can use the [editor on GitHub](https://github.com/MantisShrimpDeveloper/MantisShrimpDeveloper.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
